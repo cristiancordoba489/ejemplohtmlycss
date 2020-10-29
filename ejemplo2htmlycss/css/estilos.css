@@ -1,0 +1,9 @@
+body{
+    /*para cambiarle el fondo a toda la pantalla*/
+   /* background-color: rgb(162, 210, 224);*/
+    background-color: thistle;
+}
+/*cambiar el color del titulo en este caso es el h1*/
+h1{
+    color: rgb(9, 13, 243);
+}
